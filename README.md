@@ -1,1 +1,1 @@
-# "Brincando" com HTML e CSS em texto constrúido pelo ChatGPT.
+# "Brincando" com HTML e CSS com informação textual feita pelo ChatGPT.
